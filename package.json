@@ -73,5 +73,16 @@
     "react-app-rewire-alias": "^1.1.7",
     "react-app-rewired": "^2.2.1",
     "webpack": "^5.76.1"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "config-overrides.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel357/StarWars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavel357/StarWars/issues"
   }
 }
