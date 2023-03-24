@@ -1,6 +1,7 @@
 {
   "name": "17_letscode",
   "version": "0.1.0",
+  "homepage": "https://pavel357.github.io/17_letscode/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
